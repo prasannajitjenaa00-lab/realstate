@@ -6,7 +6,7 @@ import { t as Route } from "./property._id-aHyhErG8.mjs";
 import { n as AnimatePresence, t as motion } from "../_libs/framer-motion.mjs";
 import { C as HiOutlinePhone, S as HiOutlineMapPin, c as HiOutlineMenu, d as HiOutlineX, i as FaPhone, l as HiOutlineMoon, m as HiArrowUp, n as FaInstagram, o as FaWhatsapp, r as FaLinkedinIn, s as FaYoutube, t as FaFacebookF, u as HiOutlineSun, y as HiOutlineEnvelope } from "../_libs/react-icons.mjs";
 import { t as QueryClient } from "../_libs/tanstack__query-core.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/router-C_BhwZhu.js
+//#region node_modules/.nitro/vite/services/ssr/assets/router-Wa_XbMjf.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var styles_default = "/assets/styles-dYlgSEYC.css";
@@ -495,10 +495,6 @@ var Route$1 = createRootRouteWithContext()({
 		links: [{
 			rel: "stylesheet",
 			href: styles_default
-		}, {
-			rel: "icon",
-			// href: "/favicon.ico",
-			type: "image/x-icon"
 		}]
 	}),
 	shellComponent: RootShell,
